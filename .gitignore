@@ -1,0 +1,10 @@
+# Compiled output
+bin/
+.output/
+.dist/
+src/.dist/
+*.class
+
+# IDE
+.vscode/
+src/.vscode/
